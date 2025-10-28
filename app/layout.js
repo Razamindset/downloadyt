@@ -5,7 +5,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "Downloadyt",
-  description: "A youtube Video Downloader",
+  description: "A youtube Video Downloader, by Ali Raza",
 };
 
 export default function RootLayout({ children }) {
